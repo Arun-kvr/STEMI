@@ -1,4 +1,10 @@
 # STEMI
-STEMI -  The heart threat detector
 
-<img src ="circuit diagram.jpg">
+
+<div>  STEMI -  The heart threat detector</div>
+
+
+<div>
+  <img src ="circuit diagram.jpg">
+</div>
+
